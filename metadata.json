@@ -1,5 +1,7 @@
 {
   "name": "StudyGenie 1.0",
   "description": "An AI-powered study tool that generates summaries, flashcards, and quizzes from topics of the given subjects and a lot of publishers to choose!",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
